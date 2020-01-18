@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Race_Results_Program/main.c
+stdio.h
+-
+string.h
+-
+race_results.h
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Race_Results_Program/race_results.h
+
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Race_Results_Program/race_results.h
+stdio.h
+-
+

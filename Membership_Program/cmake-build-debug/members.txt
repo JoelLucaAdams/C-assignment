@@ -1,0 +1,66 @@
+Adams
+Joel Luca
+1
+joa38@aber.ac.uk
+SlickBoat
+hello World
+Hardy
+Nigel
+456
+n.hardy@seaside.yachts.cy
+PlasticBath
+It'l nvr float
+Long
+Fred
+2
+f.long@long.people.uk
+AberSloop
+Jaqueta
+Morris
+Huw Rhys Morgan
+1015
+h.w.m.morris@noclub.clubs.uk
+Flyer
+The Blue One
+Neal
+Mark Junior Simon
+56
+m.j.s.neal@yacht.club.ch
+MetalBox
+Kit of Parts
+Piper
+Peter
+87
+p.piper@bigboats.clubs.us
+Apple
+Master Sloop
+Price
+David
+235
+d.price@noclub.clubs.uk
+Invader
+Goldcrest
+Ratcliffe
+Mark
+657
+twolunches@yacht.clubs.uk
+SlickBoat
+Only One Year
+Shipman
+Richard
+857
+R.Shipman@yacht.clubs.uk
+SlickBoat
+Only a Starter
+Snooke
+Neal
+359
+NealSnooke@yacht.clubs.uk
+TwinHull
+Keep m Together
+Zakaria
+Phillip Peter
+23
+zak@inland.clubs.uk
+Mirror
+Uppa Nova

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Membership_Program/main.c
+stdio.h
+-
+membership.h
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Membership_Program/membership.h
+
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Membership_Program/membership.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+membership.h
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Membership_Program/membership.h
+
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Membership_Program/membership.h
+stdio.h
+-
+
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Membership_Program/print.c
+membership.h
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Membership_Program/membership.h
+
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Membership_Program/search_members.c
+string.h
+-
+membership.h
+C:/Users/joelu/Dropbox/University work/CS23820 Assignment/Membership_Program/membership.h
+
